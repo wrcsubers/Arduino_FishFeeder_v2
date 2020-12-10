@@ -1,6 +1,6 @@
-# NodeMCU based Fish Feeder
+# NodeMCU based Fish Feeder v2
 
-### Fish Feeder consists of
+### Fish Feeder v2 consists of
 * ESP8266/NodeMCU Microcontroller
 * 28BYJ-48 Stepper Motor with ULN2003 Driver
 * Custom built wood stand with height adjustment
