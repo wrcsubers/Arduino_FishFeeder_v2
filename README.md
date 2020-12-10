@@ -16,4 +16,4 @@ The first version of this project was an automatic fish feeder that would feed o
   * Nudge feeding disk forward/backward
 * Add RGB Lighting for day/night cycles
 
-#### Check out Fish Feeder Version ---> https://github.com/wrcsubers/Arduino_FishFeeder
+#### Check out my original Fish Feeder ---> https://github.com/wrcsubers/Arduino_FishFeeder
