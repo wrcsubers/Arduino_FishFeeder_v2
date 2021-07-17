@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="30.746"
+   height="30.746"
+   version="1.1"
+   viewBox="0 0 8.135 8.135"
+   id="svg39"
+   sodipodi:docname="Feeder_Plain.svg"
+   inkscape:version="1.0.2 (e86c870879, 2021-01-15, custom)">
+  <metadata
+     id="metadata45">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs43" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1350"
+     inkscape:window-height="694"
+     id="namedview41"
+     showgrid="false"
+     inkscape:zoom="1.5392391"
+     inkscape:cx="64.549593"
+     inkscape:cy="-103.33075"
+     inkscape:window-x="-7"
+     inkscape:window-y="2"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg39" />
+  <g
+     transform="translate(-87.921 -175.84)"
+     id="g37">
+    <g
+       fill="#fff"
+       stroke="#000"
+       stroke-width=".635"
+       id="g35">
+      <circle
+         id="FeederOuterCircle"
+         cx="105"
+         cy="148.5"
+         r="43" />
+      <circle
+         cx="105"
+         cy="182.5"
+         r="3.75"
+         id="FeederHole"
+         fill="fill=&quot;url('#myGradient')&quot;" />
+      <circle
+         cx="105"
+         cy="182.5"
+         r="3.75"
+         id="FeederSlot00"
+         fill="none" />
+      <circle
+         cx="40.179"
+         cy="211.38"
+         r="3.75"
+         id="FeederSlot01"
+         transform="rotate(-22.5)" />
+      <circle
+         transform="rotate(-45)"
+         cx="-30.759"
+         cy="213.25"
+         r="3.75"
+         id="FeederSlot02" />
+      <circle
+         transform="rotate(-67.5)"
+         cx="-97.014"
+         cy="187.84"
+         r="3.75"
+         id="FeederSlot03" />
+      <circle
+         transform="rotate(-90)"
+         cx="-148.5"
+         cy="139"
+         r="3.75"
+         id="FeederSlot04" />
+      <circle
+         transform="rotate(247.5)"
+         cx="-177.38"
+         cy="74.179"
+         r="3.75"
+         id="FeederSlot05" />
+      <circle
+         transform="rotate(225)"
+         cx="-179.25"
+         cy="3.2409"
+         r="3.75"
+         id="FeederSlot06" />
+      <circle
+         transform="rotate(202.5)"
+         cx="-153.84"
+         cy="-63.014"
+         r="3.75"
+         id="FeederSlot07" />
+      <circle
+         transform="scale(-1)"
+         cx="-105"
+         cy="-114.5"
+         r="3.75"
+         id="FeederSlot08" />
+      <circle
+         transform="rotate(157.5)"
+         cx="-40.179"
+         cy="-143.38"
+         r="3.75"
+         id="FeederSlot09" />
+      <circle
+         transform="rotate(135)"
+         cx="30.759"
+         cy="-145.25"
+         r="3.75"
+         id="FeederSlot10" />
+      <circle
+         transform="rotate(112.5)"
+         cx="97.014"
+         cy="-119.84"
+         r="3.75"
+         id="FeederSlot11" />
+      <circle
+         transform="rotate(90)"
+         cx="148.5"
+         cy="-71"
+         r="3.75"
+         id="FeederSlot12" />
+      <circle
+         transform="rotate(67.5)"
+         cx="177.38"
+         cy="-6.1788"
+         r="3.75"
+         id="FeederSlot13" />
+      <circle
+         transform="rotate(45)"
+         cx="179.25"
+         cy="64.759"
+         r="3.75"
+         id="FeederSlot14" />
+      <circle
+         transform="rotate(22.5)"
+         cx="153.84"
+         cy="131.01"
+         r="3.75"
+         id="FeederSlot15" />
+    </g>
+  </g>
+</svg>
